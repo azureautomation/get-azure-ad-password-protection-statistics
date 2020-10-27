@@ -1,0 +1,20 @@
+{
+    "Author": "Jorge de Almeida Pinto [MVP]",
+    "ContentSize": 25501,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/get-azure-ad-password-protection-statistics/master/AAD-Password-Protection-Statistics.ps1",
+    "DownloadCount": 604,
+    "Id": "Get-Azure-AD-Password-f3a567bc",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 177,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-11-4T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "WARNING: Due to retirement of Technet Script Gallery, migrated to:https://github.com/zjorz/Public-AAD-Scripts/blob/master/AAD-Password-Protection-Statistics.ps1So to gather the statistics through an AD forest I have written a script that gathers the statistics from the RWDCs that",
+    "Title": "Get Azure AD Password Protection Statistics",
+    "UpdatedDate": "2020-4-3T00:00:00",
+    "Url": "https://github.com/azureautomation/get-azure-ad-password-protection-statistics",
+    "UserTags": "Azure AD Password Protection, Azure AD Password Protection Statistics, Azure AD Password Protection Summary Report"
+}
